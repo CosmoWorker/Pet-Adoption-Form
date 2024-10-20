@@ -1,8 +1,8 @@
-# React + Vite
+<h1>Simple Form - Pet Adoption</h1> 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic form site for posting data for the adoption of a pet of any type. Below is the preview of the form or you can visit it by clicking the link over the top.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Form Screenshot-1](./src/assets/Screenshot%202024-10-20%20153254.png)
+
+![Form Screenshot-2](./src/assets/Screenshot%202024-10-20%20153359.png)
